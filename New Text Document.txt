@@ -2,5 +2,6 @@ git & GitHub
 
 1. git init
 2.git add .
-3.add remote origin
-4.git push
+3.git commit -m "message"
+4.add remote origin
+5.git push
